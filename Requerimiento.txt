@@ -1,0 +1,6 @@
+ingresar a entorno cd env
+ejecutar cd Scripts
+activate
+cd..
+python run.py 
+instalar pymysql
